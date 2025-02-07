@@ -24,10 +24,4 @@ I'm open to collaborating on interesting projects related to:
 
 If you have any exciting ideas or projects in mind, feel free to reach out. Let’s work together to create something impactful!
 
-## GitHub Stats
 
-![Sreenadh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreenadhkarri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sreenadhkarri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
